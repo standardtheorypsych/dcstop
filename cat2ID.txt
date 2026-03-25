@@ -1,0 +1,199 @@
+The Diagnostic and Statistical Manual (DSM) according to Standard Theory
+Category 2
+Intimacy Dysfunction - Discomfort or inability to communicate directly, one-on-one with another person, including the self, as dictated by Silent and Intimate Communication on the R-Scale
+Normal Characteristics of Communication:
+1st – Silent Identification (creates unique internalization)
+2nd – Silent Interaction (changes body status)
+3rd – Silent Orientation (understands changes in body status, free will)
+4th – Intimate Interaction (extends attention to others)
+5th – Intimate Identity (interprets meaningfulness in experience)
+6th – Intimate Orientation (overload event related to experience, consciousness)
+
+Abnormal Characteristics:
+1st – Dissociation, Depersonalization (removes unique internalizations)
+2nd – Intimacy Dysfunction (cannot satisfy inhibitory chemistry)
+3rd – Disorientation (does not understand consequence of body status)
+4th – Anxiety, Reversion (cannot decide on direction of attention)
+5th – Reversion, Deceit, Deferral (unable to assign meaning to experience)
+6th – Recursion, Reversion (unable to complete overload)
+
+
+
+The following diagnoses from the DSM can be categorized
+based on their relation to Horizontal Thinking.
+These are organized by their appearance in the DSM along
+with the associated characteristic of communication:
+
+
+CHAPTER 1 — NEURODEVELOPMENTAL DISORDERS
+
+Communication Disorders
+3 - Language Disorder — F80.2
+3 - Speech Sound Disorder — F80.0
+3 - Social (Pragmatic) Communication Disorder — F80.89
+3 - Unspecified Communication Disorder — F80.9
+
+Attention-Deficit/Hyperactivity Disorder
+3 - ADHD, Combined/Predominantly Inattentive/Hyperactive — F90.0, F90.1, F90.2
+3 - Other Specified ADHD — F90.8
+3 - Unspecified ADHD — F90.9
+
+────────────────────────────────
+CHAPTER 2 — SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS
+────────────────────────────────
+
+1 - Schizotypal (Personality) Disorder — F21
+1 - Delusional Disorder — F22
+1 - Brief Psychotic Disorder — F23
+1 - Schizophreniform Disorder — F20.81
+1 - Schizophrenia — F20.9
+1 - Schizoaffective Disorder — F25.0, F25.1
+1 - Other Specified Schizophrenia Spectrum and Other Psychotic Disorder — F28
+1 - Unspecified Schizophrenia Spectrum and Other Psychotic Disorder — F29
+1 - Psychotic Disorder Due to Another Medical Condition — F06.2
+1 - Substance/Medication-Induced Psychotic Disorder — F10.259–F19.959
+
+────────────────────────────────
+CHAPTER 3 — BIPOLAR AND RELATED DISORDERS
+────────────────────────────────
+
+2 - Bipolar I Disorder — F31.x
+2 - Bipolar II Disorder — F31.81
+2 - Cyclothymic Disorder — F34.0
+2 - Substance/Medication-Induced Bipolar Disorder — F10.24–F19.24
+2 - Bipolar Disorder Due to Another Medical Condition — F06.33
+2 - Other Specified Bipolar Disorder — F31.89
+2 - Unspecified Bipolar Disorder — F31.9
+
+────────────────────────────────
+CHAPTER 4 — DEPRESSIVE DISORDERS
+────────────────────────────────
+
+2 - Disruptive Mood Dysregulation Disorder — F34.81
+3, 4 - Major Depressive Disorder, Single/Recurrent — F32.x, F33.x
+3, 4, Persistent Depressive Disorder (Dysthymia) — F34.1
+2 - Premenstrual Dysphoric Disorder — F32.81
+2 - Substance/Medication-Induced Depressive Disorder — F10.24–F19.24
+3, 4 - Depressive Disorder Due to Another Medical Condition — F06.31
+3, 4 - Other Specified Depressive Disorder — F32.8
+3, 4 - Unspecified Depressive Disorder — F32.9
+
+────────────────────────────────
+CHAPTER 5 — ANXIETY DISORDERS
+────────────────────────────────
+
+4 - Selective Mutism — F94.0
+5 - Specific Phobia — F40.2x
+5 - Social Anxiety Disorder — F40.10
+5 - Panic Disorder — F41.0
+4 - Agoraphobia — F40.00
+4 - Generalized Anxiety Disorder — F41.1
+5 - Substance/Medication-Induced Anxiety Disorder — F10.288–F19.288
+5 - Anxiety Disorder Due to Another Medical Condition — F06.4
+4, 5 - Other Specified Anxiety Disorder — F41.8
+4, 5 - Unspecified Anxiety Disorder — F41.9
+
+────────────────────────────────
+CHAPTER 6 — OBSESSIVE-COMPULSIVE AND RELATED DISORDERS
+────────────────────────────────
+
+3 - Obsessive-Compulsive Disorder — F42
+2 - Body Dysmorphic Disorder — F45.22
+3 - Trichotillomania — F63.3
+3 - Excoriation Disorder — F42.4
+3 - Substance/Medication-Induced OCRD — F10.288–F19.288
+3 - OCRD Due to Another Medical Condition — F06.8
+3 - Other Specified OCRD — F42.8
+3 - Unspecified OCRD — F42.9
+
+────────────────────────────────
+CHAPTER 7 — TRAUMA- AND STRESSOR-RELATED DISORDERS
+────────────────────────────────
+
+5 - Posttraumatic Stress Disorder — F43.10
+2 - Acute Stress Disorder — F43.0
+5 - Other Specified Trauma- and Stressor-Related Disorder — F43.8
+5 - Unspecified Trauma- and Stressor-Related Disorder — F43.9
+
+────────────────────────────────
+CHAPTER 8 — DISSOCIATIVE DISORDERS
+────────────────────────────────
+
+1 - Dissociative Identity Disorder — F44.81
+1, 2 - Dissociative Amnesia — F44.0
+1 - Depersonalization/Derealization Disorder — F48.1
+1 - Other Specified Dissociative Disorder — F44.89
+1 - Unspecified Dissociative Disorder — F44.9
+
+────────────────────────────────
+CHAPTER 9 — SOMATIC SYMPTOM AND RELATED DISORDERS
+────────────────────────────────
+
+2 - Somatic Symptom Disorder — F45.1
+4 - Illness Anxiety Disorder — F45.21
+1 - Psychological Factors Affecting Other Medical Conditions — F54
+ 2 - Other Specified Somatic Symptom Disorder — F45.8
+2 - Unspecified Somatic Symptom Disorder — F45.9
+
+────────────────────────────────
+CHAPTER 10 — FEEDING AND EATING DISORDERS
+────────────────────────────────
+
+1 - Pica — F98.3
+1 - Rumination Disorder — F98.21
+2 - Avoidant/Restrictive Food Intake Disorder — F50.82
+2 - Anorexia Nervosa — F50.01, F50.02
+2 - Bulimia Nervosa — F50.2
+2 - Binge-Eating Disorder — F50.81
+2 - Other Specified Feeding or Eating Disorder — F50.89
+2 - Unspecified Feeding or Eating Disorder — F50.9
+
+────────────────────────────────
+CHAPTER 11 — SLEEP-WAKE DISORDERS
+────────────────────────────────
+
+2 - Insomnia Disorder — F51.01
+2 - Hypersomnolence Disorder — G47.10
+2 - Narcolepsy — G47.4
+2 - Nightmare Disorder — F51.5
+2 - Non-REM Sleep Arousal Disorders (Sleepwalking, Sleep Terrors) — F51.3
+2 - Rapid Eye Movement Sleep Behavior Disorder — G47.52
+2 - Breathing-Related Sleep Disorders — G47.3x
+2 - Circadian Rhythm Sleep-Wake Disorders — G47.2x
+2 - Substance/Medication-Induced Sleep Disorder — F10.282–F19.282
+2 - Other/Unspecified Sleep-Wake Disorders — G47.8, G47.9
+
+────────────────────────────────
+CHAPTER 16 — SUBSTANCE-RELATED AND ADDICTIVE DISORDERS
+────────────────────────────────
+
+2 - Alcohol Intoxication — F10.129
+2 - Alcohol Withdrawal — F10.239
+2 - Cannabis Withdrawal — F12.288
+2 - Caffeine Intoxication — F15.929
+2 - Caffeine Withdrawal — F15.93
+2 - Hallucinogen-Related Disorders — F16.x
+2 - Phencyclidine Use Disorder — F16.20
+2 - Opioid Intoxication — F11.129
+2 - Opioid Withdrawal — F11.23
+2 - Sedative/Hypnotic/Anxiolytic Intoxication — F13.129
+2 - Sedative/Hypnotic/Anxiolytic Withdrawal — F13.239
+2 - Stimulant Intoxication — F15.129
+2 - Stimulant Withdrawal — F15.23
+2 - Tobacco Withdrawal — F17.203
+2 - Other (or Unknown) Substance Intoxication — F19.129
+2 - Other (or Unknown) Substance Withdrawal — F19.239
+
+────────────────────────────────
+CHAPTER 18 — PERSONALITY DISORDERS
+────────────────────────────────
+
+1 - Paranoid Personality Disorder — F60.0
+1 - Schizoid Personality Disorder — F60.1
+1 - Schizotypal Personality Disorder — F21
+1 - Antisocial Personality Disorder — F60.2
+1 - Borderline Personality Disorder — F60.3
+1 - Obsessive-Compulsive Personality Disorder — F60.5
+1 - Personality Change Due to Another Medical Condition — F07.0
+1 - Other Specified Personality Disorder — F60.89
+5 - Unspecified Personality Disorder — F60.9

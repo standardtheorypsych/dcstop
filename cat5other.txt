@@ -1,0 +1,69 @@
+Organizing the Diagnostic and Statistical Manual (DSM) according to Standard Theory
+Category 5
+Other and unspecified disorders - relies on clinical interpretation of potential harm for categorization as specified by the clinician
+
+────────────────────────────────
+CHAPTER 18 — PARAPHILIC DISORDERS
+────────────────────────────────
+
+Other Specified Paraphilic Disorder — F65.89
+Unspecified Paraphilic Disorder — F65.9
+
+────────────────────────────────
+CHAPTER 16 — SUBSTANCE-RELATED AND ADDICTIVE DISORDERS
+────────────────────────────────
+
+Phencyclidine-Related Disorders
+• Other Phencyclidine-Induced Disorders — F16.18 (abuse) / F16.28 (dependence)
+• Unspecified Phencyclidine-Related Disorder — F16.9
+
+Hallucinogen-Related Disorders
+• Other Hallucinogen-Induced Disorders — F16.18 (abuse) / F16.28 (dependence)
+• Unspecified Hallucinogen-Related Disorder — F16.9
+
+Opioid-Related Disorders
+• Other Opioid-Induced Disorders — F11.18 (abuse) / F11.28 (dependence)
+• Unspecified Opioid-Related Disorder — F11.9
+
+Inhalant-Related Disorders
+• Other Inhalant-Induced Disorders — F18.18 (abuse) / F18.28 (dependence)
+• Unspecified Inhalant-Related Disorder — F18.9
+
+Sedative-, Hypnotic-, or Anxiolytic-Related Disorders
+• Other Sedative-, Hypnotic-, or Anxiolytic-Induced Disorders — F13.18 / F13.28
+• Unspecified Sedative-, Hypnotic-, or Anxiolytic-Related Disorder — F13.9
+
+Stimulant-Related Disorders
+• Other Stimulant-Induced Disorders — F15.18 / F15.28
+• Unspecified Stimulant-Related Disorder — F15.9
+
+Tobacco-Related Disorders
+• Other Tobacco-Induced Disorders — F17.29
+• Unspecified Tobacco-Related Disorder — F17.9
+
+Cannabis-Related Disorders
+• Other Cannabis-Induced Disorders — F12.18 / F12.28
+• Unspecified Cannabis-Related Disorder — F12.9
+
+Alcohol-Related Disorders
+• Other Alcohol-Induced Disorders — F10.18 / F10.28
+• Unspecified Alcohol-Related Disorder — F10.9
+
+Caffeine-Related Disorders
+• Unspecified Caffeine-Related Disorder — F15.9
+
+Other (or Unknown) Substance–Related Disorders
+• Other (or Unknown) Substance Use Disorder — F19.10 / F19.20
+• Other (or Unknown) Substance–Induced Disorders — F19.18 / F19.28
+• Unspecified Other (or Unknown) Substance–Related Disorder — F19.9
+
+────────────────────────────────
+CHAPTER 20 — OTHER MENTAL DISORDERS AND ADDITIONAL CODES
+────────────────────────────────
+
+Other Mental Disorders
+• Other Specified Mental Disorder Due to Another Medical Condition — F06.8
+• Unspecified Mental Disorder Due to Another Medical Condition — F06.9
+• Other Specified Mental Disorder — F99 (with specifier)
+• Unspecified Mental Disorder — F99
+

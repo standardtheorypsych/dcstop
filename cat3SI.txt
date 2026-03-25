@@ -1,0 +1,66 @@
+Organizing the Diagnostic and Statistical Manual (DSM) according to Standard Theory
+Category 3
+Social Identity Disorder - replacement of normal communication with external objects, social ideas or constructs, relationships, or social status, or primary reliance on those things in communication as a replacement for one-on-one or self-communication as dictated by Social, Shared, or Supersocial Communication
+Normal Social Communication - 
+Normal Shared Communication - 
+Normal Supersocial Communication – 
+
+Abnormal Social Communication
+Abnormal Shared Communication
+Abnormal Supersocial Communication
+
+────────────────────────────────
+CHAPTER 15 — PARAPHILIC DISORDERS
+────────────────────────────────
+
+Voyeuristic Disorder — F65.3
+Exhibitionistic Disorder — F65.2
+Frotteuristic Disorder — F65.81
+Sexual Masochism Disorder — F65.51
+Sexual Sadism Disorder — F65.52
+Fetishistic Disorder — F65.0
+Transvestic Disorder — F65.1
+
+────────────────────────────────
+CHAPTER 18 — PERSONALITY DISORDERS
+────────────────────────────────
+
+Dependent Personality Disorder — F60.7
+Avoidant Personality Disorder — F60.6
+Hoarding Disorder — F42.3
+
+────────────────────────────────
+CHAPTER 16 — SUBSTANCE-RELATED AND ADDICTIVE DISORDERS
+────────────────────────────────
+
+Alcohol Use Disorder — F10.10 (mild), F10.20 (moderate/severe)
+Cannabis Use Disorder — F12.10, F12.20
+Opioid Use Disorder — F11.10, F11.20
+Stimulant Use Disorder — F15.10, F15.20
+Sedative, Hypnotic, or Anxiolytic Use Disorder — F13.10, F13.20
+Hallucinogen Use Disorder — F16.10, F16.20
+Inhalant Use Disorder — F18.10, F18.20
+Tobacco Use Disorder — F17.200
+Substance Use Disorder, Other or Unspecified — F19.10, F19.20
+
+────────────────────────────────
+CHAPTER 10 — TRAUMA- AND STRESSOR-RELATED DISORDERS
+────────────────────────────────
+
+Reactive Attachment Disorder — F94.1
+Disinhibited Social Engagement Disorder — F94.2
+Adjustment Disorders — F43.20–F43.29
+Separation Anxiety Disorder — F93.0
+
+────────────────────────────────
+CHAPTER 8 — SOMATIC SYMPTOM AND RELATED DISORDERS
+────────────────────────────────
+
+Factitious Disorder (Imposed on Self or Another) — F68.10, F68.A
+
+────────────────────────────────
+CHAPTER 21 — OTHER CONDITIONS THAT MAY BE A FOCUS OF CLINICAL ATTENTION
+────────────────────────────────
+
+Other Conditions That May Be a Focus of Clinical Attention — Z60–Z65
+
