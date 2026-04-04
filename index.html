@@ -1,101 +1,124 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-
-    
-    <title>DSM-V Diagnostic Criteria According to Standard Theory</title>
-
- 
-</head>
+<meta charset="UTF-8">
+<title>DSM‑V Diagnostic Criteria</title>
 
 <style>
-	button {
-		background-color:skyblue;
-		color: white
-		border: blue;
-		height: 75px;
-		width: 90px;
-		border-radius: 9px;
-		cursor: pointer;
-        margin: auto;
-		margin-right: 18px
-        margin-left: 18px
-		transition: opacity 0.15s
-        text align: center
-        margin-top: 18px
-        margin-bottom: 18px
-        display: inline-block
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        display: center;
-
-}
-    div {
-        position: relative;
-        align-items: center;
-        display: flex;
+    body {
+        background-color: #08142e;
+        color: white;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 40px;
+        text-align: center;
     }
-button:hover {
-	background color: blue;
-		opacity: 50;
-		transition: opacity 0.5s;
-		transition: smooth;
-		box-shadow: -3px 2px 2px gray;
-}
 
-button:active {
-	opacity: 1;
-}
+    h1, h2, p {
+        margin-bottom: 16px;
+    }
+
+    /* Main layout wrapper */
+    .layout-container {
+        max-width: 900px;
+        margin: 60px auto;
+    }
+
+    /* Priority button container */
+    .priority-container {
+        margin-bottom: 40px;
+    }
+
+    /* Secondary buttons container */
+    .buttons-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 30px;
+    }
+
+    /* Shared button styles */
+    a.button {
+        display: block;
+        background-color: #123a8c;
+        color: #ffffff;
+        font-weight: bold;
+        font-family: "Times New Roman", Times, serif;
+        text-decoration: none;
+        padding: 18px 16px;
+        border-radius: 10px;
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.45);
+        transition:
+            background-color 0.3s ease,
+            box-shadow 0.3s ease;
+        text-align: center;
+    }
+
+    /* Hover effects (no movement) */
+    a.button:hover {
+        background-color: #1c54c4;
+        box-shadow: 0 10px 18px rgba(0, 0, 0, 0.65);
+    }
+
+    /* Emphasized cat0 button */
+    .cat0 {
+        background-color: #0d2b6f;
+        font-size: 1.1em;
+        padding: 22px 20px;
+        max-width: 450px;
+        margin: 0 auto;
+    }
+
+    /* Optional: Responsive stacking */
+    @media (max-width: 700px) {
+        .buttons-container {
+            grid-template-columns: 1fr;
+        }
+    }
 </style>
-
+</head>
 
 <body>
 
-    <header>
-        <h1>Diagnostic Criteria According to Standard Theory</h1>
-        <p class="subtitle">
-            Use the buttons below to view content
-        </p>
-    </header>
+<h1>DSM‑V Diagnostic Criteria According to Standard Theory</h1>
+<h2>Diagnostic Criteria According to Standard Theory</h2>
+<p>Use the buttons below to view content</p>
 
+<div class="layout-container">
 
+    <!-- Priority container -->
+    <div class="priority-container">
+        <a href="./cat0DCSTOP.html" class="button cat0">
+            Standard Theory<br>Diagnostic Criteria
+        </a>
+    </div>
 
-<div>
-            <button class="cat0">
-                <a href="./cat0DCSTOP.html" target="_blank"title="Click for Standard Theory's Diagnostic Criteria"><b>Standard Theory Diagnostic Criteria</b></a>
+    <!-- Secondary buttons container -->
+    <div class="buttons-container">
 
-                </button>
+        <a href="./cat1pii.html" class="button">
+            Category 1<br>Physical Irregular Impulse
+        </a>
 
-            <button class="cat1">
-                <a href="./cat1pii.html" target="_blank"title="Click for Physical Irregular Impulse">Category 1: Physical Irregular Impulse</a>
-                </button>
+        <a href="./cat2ID.html" class="button">
+            Category 2<br>Intimacy Dysfunction
+        </a>
 
-            <button class="cat2">
-                <a href="./cat2ID.html" target="_blank"title="Click for Intimacy Dysfunction">Category 2: Intimacy Dysfunction</a>
-                </button>
-            <button class="cat3">
-                <a href="./cat3SI.html" target="_blank"title="Click for Social Identity Disorder">Category 3: Social Identity Disorder</a>
-                </button>
-            <button class="cat4">
-                <a href="./cat4BII.html" target="_blank"title="Click for Irregular Impulse">Category 4: Behavioral Irregular Impulse</a>
-                </button>
-            <button class="cat5">
-                <a href="./cat5other.html" target="_blank"title="Click for Other/Unspecified">Category 5: Unspecified</a>
-                </button>
-            </div>
+        <a href="./cat3SI.html" class="button">
+            Category 3<br>Social Identity Disorder
+        </a>
 
+        <a href="./cat4BII.html" class="button">
+            Category 4<br>Behavioral Irregular Impulse
+        </a>
 
+        <a href="./cat5other.html" class="button">
+            Category 5<br>Unspecified
+        </a>
 
+    </div>
 
-
-
-
-
-
-    
+</div>
 
 </body>
 </html>
