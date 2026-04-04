@@ -25,7 +25,7 @@
         margin: 60px auto;
     }
 
-    /* Priority button container */
+    /* Priority (cat0) container */
     .priority-container {
         margin-bottom: 40px;
     }
@@ -69,7 +69,14 @@
         margin: 0 auto;
     }
 
-    /* Optional: Responsive stacking */
+    /* Special styling for button six (midline-centered text) */
+    a.button.back {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    /* Optional responsive stacking */
     @media (max-width: 700px) {
         .buttons-container {
             grid-template-columns: 1fr;
@@ -86,14 +93,14 @@
 
 <div class="layout-container">
 
-    <!-- Priority container -->
+    <!-- Priority top button -->
     <div class="priority-container">
         <a href="./cat0DCSTOP.html" class="button cat0">
             Standard Theory<br>Diagnostic Criteria
         </a>
     </div>
 
-    <!-- Secondary buttons container -->
+    <!-- Secondary buttons -->
     <div class="buttons-container">
 
         <a href="./cat1pii.html" class="button">
@@ -114,6 +121,10 @@
 
         <a href="./cat5other.html" class="button">
             Category 5<br>Unspecified
+        </a>
+
+        <a href="https://linktr.ee/standardtheory" class="button back">
+            Back to Standard Theory
         </a>
 
     </div>
